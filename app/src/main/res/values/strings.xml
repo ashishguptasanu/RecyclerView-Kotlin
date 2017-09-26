@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KotlinTest</string>
+    <string name="title_activity_kotlin_test">RecyclerView Demo</string>
+</resources>
