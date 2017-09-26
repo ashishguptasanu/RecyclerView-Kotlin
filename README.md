@@ -6,7 +6,7 @@ Basic implementation of Android Recycler View purly written in Kotlin.
 You need to install the Kotlin Plugin to use Kotlin in your Android Studio project.
 Install the kotlin Plugin -> Restart Android Studio -> Configure Kotlin -> clone the project -> Run the Project.
 ## License
-'''
+```
 MIT License
 
 Copyright (c) 2017 Ashish Kumar Gupta
@@ -26,5 +26,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-'''
+```
 
